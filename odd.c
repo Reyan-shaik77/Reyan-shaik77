@@ -18,3 +18,4 @@ void  main() {
         sum=sum+digits(a[i]);
     }
     printf("the key is %d",sum);
+}
